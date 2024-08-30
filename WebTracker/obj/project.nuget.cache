@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "PNBqs8m7dgA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\estagioCotin2\\Documents\\EstudosVS\\c#\\WebTracker\\WebTracker\\WebTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\estagioCotin2\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
+    "C:\\Users\\estagioCotin2\\.nuget\\packages\\htmlagilitypack\\1.11.64\\htmlagilitypack.1.11.64.nupkg.sha512",
+    "C:\\Users\\estagioCotin2\\.nuget\\packages\\mailkit\\4.7.1.1\\mailkit.4.7.1.1.nupkg.sha512",
+    "C:\\Users\\estagioCotin2\\.nuget\\packages\\mimekit\\4.7.1\\mimekit.4.7.1.nupkg.sha512",
+    "C:\\Users\\estagioCotin2\\.nuget\\packages\\selenium.webdriver\\4.24.0\\selenium.webdriver.4.24.0.nupkg.sha512",
+    "C:\\Users\\estagioCotin2\\.nuget\\packages\\selenium.webdriver.chromedriver\\128.0.6613.8600\\selenium.webdriver.chromedriver.128.0.6613.8600.nupkg.sha512",
+    "C:\\Users\\estagioCotin2\\.nuget\\packages\\system.formats.asn1\\8.0.1\\system.formats.asn1.8.0.1.nupkg.sha512",
+    "C:\\Users\\estagioCotin2\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.0\\system.security.cryptography.pkcs.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
